@@ -1,0 +1,15 @@
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/bin/Debug/net6.0/BinarySearchRecursion
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/bin/Debug/net6.0/BinarySearchRecursion.deps.json
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/bin/Debug/net6.0/BinarySearchRecursion.runtimeconfig.json
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/bin/Debug/net6.0/BinarySearchRecursion.dll
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/bin/Debug/net6.0/BinarySearchRecursion.pdb
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/obj/Debug/net6.0/BinarySearchRecursion.csproj.AssemblyReference.cache
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/obj/Debug/net6.0/BinarySearchRecursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/obj/Debug/net6.0/BinarySearchRecursion.AssemblyInfoInputs.cache
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/obj/Debug/net6.0/BinarySearchRecursion.AssemblyInfo.cs
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/obj/Debug/net6.0/BinarySearchRecursion.csproj.CoreCompileInputs.cache
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/obj/Debug/net6.0/BinarySearchRecursion.dll
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/obj/Debug/net6.0/refint/BinarySearchRecursion.dll
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/obj/Debug/net6.0/BinarySearchRecursion.pdb
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/obj/Debug/net6.0/BinarySearchRecursion.genruntimeconfig.cache
+/Users/alina_serha/Projects/BinarySearchRecursion/BinarySearchRecursion/obj/Debug/net6.0/ref/BinarySearchRecursion.dll

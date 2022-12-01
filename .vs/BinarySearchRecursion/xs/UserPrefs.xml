@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CEBD6CAA-94E3-49B5-8350-37468E415FA9}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BinarySearchRecursion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinarySearchRecursion/Program.cs">
+    <Files>
+      <File FileName="BinarySearchRecursion/Program.cs" Line="17" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BinarySearchRecursion" expanded="True">
+            <Node name="BinarySearchRecursion" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+</Properties>
